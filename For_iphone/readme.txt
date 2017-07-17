@@ -1,0 +1,1 @@
+iphone用户：appstore下载wingy,挑那个不要钱的下载进行配置。
