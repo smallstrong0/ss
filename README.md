@@ -11,10 +11,10 @@
 #### Use
 
 ```
-服务器地址： 104.154.222.14
-服务器端口： 8989
+服务器地址： 104.128.91.246
+服务器端口： 443
 数据加密方式： aes-256-cfb
-密码： small
+密码： MTg2MjBjYT
 代理端口： 1080（optional ，up on you）
 ```
 
@@ -30,6 +30,7 @@ wechat: smallstrong0
 e-mail: smallstrong007@gmail.com
 blog: smallstrong.wang
 ```
+[搬瓦工VPS自建VPN 走你](http://www.smallstrong.wang/2016/10/11/%E4%BA%94%E5%88%86%E9%92%9F%E6%95%99%E4%BD%A0%E5%9C%A8VPS%E4%B8%8A%E6%90%AD%E5%BB%BAVPN/)
 
 
 
