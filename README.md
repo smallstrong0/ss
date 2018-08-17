@@ -1,4 +1,4 @@
-### Shadowsocks 全端翻墙 【IP limit，在天朝国内已凉。国外翻墙依旧可以】
+### Shadowsocks 全端翻墙 
 ##### 对比国内众翻墙姿势，种类奇多但多数不够优雅。免费VPN流量的限制及其难以忍受的不稳定性（某灯频繁验证），付费VPN死于政策因素卷款跑路的层出不穷（green，佛跳墙），网上免费ss六小时改一次ip地址，告诉我你能忍？
 
 > why shadowsocks?  
@@ -28,9 +28,9 @@
 qq: 393019766
 wechat: smallstrong0
 e-mail: smallstrong007@gmail.com
-blog: smallstrong.wang
+blog: smallstrong.site
 ```
-[搬瓦工VPS自建VPN 走你](http://www.smallstrong.wang/2016/10/11/%E4%BA%94%E5%88%86%E9%92%9F%E6%95%99%E4%BD%A0%E5%9C%A8VPS%E4%B8%8A%E6%90%AD%E5%BB%BAVPN/)
+[搬瓦工VPS自建VPN 走你](http://www.smallstrong.site/2016/10/11/%E4%BA%94%E5%88%86%E9%92%9F%E6%95%99%E4%BD%A0%E5%9C%A8VPS%E4%B8%8A%E6%90%AD%E5%BB%BAVPN/)
 
 
 
